@@ -1,3 +1,4 @@
+package programmers.lv2._001_MaxAndMin;
 /*
 문제: 최댓값과 최솟값
 레벨: Lv2
@@ -19,5 +20,10 @@ class Solution {
 		int min = Arrays.stream(numArr).min().getAsInt();
 		String answer = min + " " + max;
 		return answer;
+	}
+
+	public static void main(String[] args) {
+		Solution sol = new Solution();
+		System.out.println(sol.solution("1 2 3 4"));
 	}
 }

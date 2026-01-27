@@ -1,3 +1,5 @@
+package programmers.lv2._002_ValidParentheses;
+
 /*
 문제: 올바른 괄호
 레벨: Lv2
@@ -23,5 +25,14 @@ class Solution {
 			}
 		}
 		return stack.isEmpty();
+	}
+
+	public static void main(String[] args) {
+		Solution sol = new Solution();
+
+		System.out.println(sol.solution("()()"));   // true
+		System.out.println(sol.solution("(())()")); // true
+		System.out.println(sol.solution("(()"));    // false
+		System.out.println(sol.solution("())("));   // false
 	}
 }
