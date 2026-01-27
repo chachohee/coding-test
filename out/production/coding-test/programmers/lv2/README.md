@@ -1,6 +1,0 @@
-# 🧩 Programmers Lv2 문제 모음
-
-| 번호  | 문제명      | 링크 | 코드                                                              |
-|-----|----------|------|-----------------------------------------------------------------|
-| 001 | 최댓값과 최솟값 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [풀이](./_001_MaxAndMin/Solution.java)        |
-| 002 | 올바른 괄호   | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [풀이](./_002_ValidParentheses/Solution.java) |
