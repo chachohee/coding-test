@@ -8,10 +8,12 @@ Java 기반 알고리즘 문제 풀이 모음입니다.
 
 ### 🔹 Programmers
 - [Lv2 문제 모음](./java/programmers/lv2/README.md)
-- [Lv3 문제 모음](./java/programmers/lv3/README.md)
 
-### 🔹 Baekjoon
-- [문제 모음](./java/baekjoon/README.md)
+### 🔹 Goorm
+- [문제 모음](./java/goorm/README.md)
+
+### 🔹 Musinsa
+- [1차 코딩테스트 1번 문제](./java/musinsa/SizeRecommendation.java)
 
 ---
 
