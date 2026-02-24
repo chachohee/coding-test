@@ -1,4 +1,4 @@
-package musinsa;
+package cote;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
