@@ -13,7 +13,7 @@ Java 기반 알고리즘 문제 풀이 모음입니다.
 ### 🔹 Goorm
 - [문제 모음](./java/goorm/README.md)
 
-### 🔹 Musinsa
+### 🔹 코딩테스트
 - [1차 코딩테스트 1번 문제](./java/musinsa/SizeRecommendation.java)
 
 ---
@@ -21,9 +21,9 @@ Java 기반 알고리즘 문제 풀이 모음입니다.
 ## 📁 Project Structure
 ```
 java/
+├─ cote/
+├─ goorm/
 ├─ programmers/
-│ ├─ lv2/
-│ └─ lv3/
 └─ baekjoon/
 ```
 
