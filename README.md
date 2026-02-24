@@ -14,7 +14,9 @@ Java 기반 알고리즘 문제 풀이 모음입니다.
 - [문제 모음](./java/goorm/README.md)
 
 ### 🔹 코딩테스트
-- [1차 코딩테스트 1번 문제](./java/musinsa/SizeRecommendation.java)
+- [1차 코딩테스트 1번 문제](./java/cote/SizeRecommendation.java)
+- [1차 코딩테스트 2번 문제: HashMap + Sort](./java/cote/StorePickup.java)
+- [1차 코딩테스트 2번 문제: TreeMap](./java/cote/StorePickup2.java)
 
 ---
 
