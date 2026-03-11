@@ -11,3 +11,4 @@
 | 007 | 프로세스 - Queue 전체 탐색 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [풀이](./프로세스/Solution.java)                  |
 | 007 | 프로세스 - 정렬 + Queue  | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [풀이](./프로세스/Solution2.java)                 |
 | 008 | 구명보트               | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [풀이](./구명보트/Solution.java)                  |
+| 009 | 게임 맵 최단거리          | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [풀이](./게임맵최단거리/Solution.java)               |
